@@ -1,0 +1,5 @@
+.gambar {
+    background-image: url('../public/building-home.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
